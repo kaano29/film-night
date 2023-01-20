@@ -1,0 +1,16 @@
+de/volkswagen/filmnightbackend/security/WebConfig.class
+de/volkswagen/filmnightbackend/filmevent/FilmEventNotFoundException.class
+de/volkswagen/filmnightbackend/user/UserRepository.class
+de/volkswagen/filmnightbackend/user/UserNotFoundException.class
+de/volkswagen/filmnightbackend/user/UserEntity.class
+de/volkswagen/filmnightbackend/FilmNightBackendApplication.class
+de/volkswagen/filmnightbackend/filmevent/FilmEventController.class
+de/volkswagen/filmnightbackend/filmevent/FilmEventRepository.class
+de/volkswagen/filmnightbackend/user/UserController.class
+de/volkswagen/filmnightbackend/user/UserService.class
+de/volkswagen/filmnightbackend/enums/Vote.class
+de/volkswagen/filmnightbackend/filmevent/InvalidFilmEventException.class
+de/volkswagen/filmnightbackend/enums/Avatar.class
+de/volkswagen/filmnightbackend/filmevent/FilmEventEntity.class
+de/volkswagen/filmnightbackend/filmevent/FilmEventService.class
+de/volkswagen/filmnightbackend/user/InvalidUserException.class

@@ -1,0 +1,7 @@
+export const CREATE_USER = 'CREATE_USER'
+export const CREATE_USER_ERROR = 'CREATE_USER_ERROR'
+export const GET_USER = 'GET_USER'
+export const GET_USER_ERROR = 'GET_USER_ERROR'
+export const USER_LOGIN_SUCCESS = 'USER_LOGIN_SUCCESS'
+export const GET_MOVIES = 'GET_MOVIES'
+export const GET_MOVIES_ERROR = 'GET_MOVIES_ERROR'
